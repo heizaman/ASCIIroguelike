@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1508698104 source:e:\c++ game development\14_asciiroguelike\main.cpp
+	<iostream>
+	<conio.h>
+	"GameSystem.h"
+
+1508722782 e:\c++ game development\14_asciiroguelike\include\gamesystem.h
+	<string>
+	"Player.h"
+	"Level.h"
+
+1508725720 e:\c++ game development\14_asciiroguelike\include\player.h
+
+1508725458 e:\c++ game development\14_asciiroguelike\include\level.h
+	<string>
+	<vector>
+	"Player.h"
+	"Enemy.h"
+
+1508743480 source:e:\c++ game development\14_asciiroguelike\src\gamesystem.cpp
+	"GameSystem.h"
+	<conio.h>
+	<stdlib.h>
+	<cstdio>
+
+1508756409 source:e:\c++ game development\14_asciiroguelike\src\level.cpp
+	"Level.h"
+	<fstream>
+	<stdlib.h>
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<cstdio>
+
+1508747551 source:e:\c++ game development\14_asciiroguelike\src\player.cpp
+	"Player.h"
+	<random>
+	<ctime>
+	<conio.h>
+	<stdlib.h>
+	<cstdio>
+
+1508725862 e:\c++ game development\14_asciiroguelike\include\enemy.h
+	"string"
+
+1508725954 source:e:\c++ game development\14_asciiroguelike\src\enemy.cpp
+	"Enemy.h"
+	<random>
+	<ctime>
+	<cstdio>
+	<conio.h>
+
